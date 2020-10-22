@@ -1,7 +1,6 @@
 package com.revature.beanfun;
 
-import com.revature.beans.Animal;
-import com.revature.beans.Continent;
+
 
 public class Driver {
 
@@ -22,6 +21,7 @@ public class Driver {
 		 System.out.println(A);
 		  
 		    System.out.println(c1);
+		    System.out.println("Hello from Main Branch");
 		
 	}
 
